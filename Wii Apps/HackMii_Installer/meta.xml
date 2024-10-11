@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>HackMii Installer</name>
+	<version>1</version>
+        <release_date></release_date>
+	<coder>Team Twiizers / August Wolf</coder>
+	<short_description>Manage BootMii and The HBC</short_description>
+	<long_description>App for managing BootMii and The Homebrew Channel. Created by Team Twiizers.</long_description>
+</app>
